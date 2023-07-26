@@ -1,16 +1,35 @@
-# flutter_indexed_stack
+# Indexed Stack 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/hakkinenT/flutter_indexed_stack/blob/master/LICENSE) 
 
-A new Flutter project.
+# Sobre o projeto
 
-## Getting Started
+Indexed Stack é um projeto simples, desenvolvido com o objetivo de explorar o widget IndexedStack do Flutter.
 
-This project is a starting point for a Flutter application.
+## Imagens do App
+![Gif 1](https://github.com/hakkinenT/assets/blob/master/flutter-projects/flutter-indexed-stack/video.gif) 
 
-A few resources to get you started if this is your first Flutter project:
+# Tecnologias utilizadas
+- Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Como executar o projeto
+
+```bash
+# clonar repositório
+git clone https://github.com/hakkinenT/flutter_indexed_stack.git
+
+# entrar na pasta do projeto 
+cd flutter_indexed_stack
+
+# instalar dependências
+flutter pub get
+
+# executar o projeto
+flutter run
+```
+
+# Autor
+
+Tawanna Hakkinen Oliveira Leite
+
+https://www.linkedin.com/in/tawannahakkinen/
